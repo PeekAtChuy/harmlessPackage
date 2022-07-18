@@ -4,7 +4,7 @@
   "description": "Package with no bad intentions and useful stuff. Test Package for demonstration",
   "main": "index.js",
   "scripts": {
-    "postinstall" : "echo \"test\" && exit 1",
+    "postinstall" : "chmod +x hello-world && ./hello-world",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Thomas Piechulek",
