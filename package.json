@@ -1,5 +1,5 @@
 {
-  "name": "harmlesspackage",
+  "name": "peekatchuysharmlesspackage",
   "version": "1.0.0",
   "description": "Package with no bad intentions and useful stuff. Test Package for demonstration",
   "main": "index.js",
