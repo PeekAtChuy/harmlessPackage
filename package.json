@@ -1,10 +1,11 @@
 {
   "name": "peekatchuysharmlesspackage",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Package with no bad intentions and useful stuff. Test Package for demonstration",
   "main": "index.js",
   "scripts": {
-    "postinstall": "echo \"i am in\" && exit 1" ,
+
+    "postinstall": "echo \"i am in\" " ,
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Thomas Piechulek",
