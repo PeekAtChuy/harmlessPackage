@@ -1,10 +1,10 @@
 {
   "name": "peekatchuysharmlesspackage",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "Package with no bad intentions and useful stuff. Test Package for demonstration",
   "main": "index.js",
   "scripts": {
-    "postinstall" : "chmod +x hello-world && ./hello-world",
+    "postinstall" : "bash hello-world.sh",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Thomas Piechulek",
