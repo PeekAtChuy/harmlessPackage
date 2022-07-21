@@ -1,6 +1,6 @@
 {
-  "name": "peekatchuysharmlesspackage",
-  "version": "1.0.19",
+  "name": "peekatchuysharnlesspackage",
+  "version": "1.0.20",
   "description": "Package with no bad intentions and useful stuff. Test Package for demonstration",
   "main": "index.js",
   "scripts": {
